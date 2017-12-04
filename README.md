@@ -32,12 +32,5 @@ Note:
 Please refer to the lab slides: [Version Control & Debugger][2] for a complete tutorial.
 
 
-
-## Deadline
-
-Sumbit your work before **2016/4/13 (Wed.) 23:59:59**.
-
-Late submissions **WILL NOT** be accepted.
-
 [1]: http://shwu10.cs.nthu.edu.tw/2016-software-studio/Assignment4-Generic-Collections
 [2]: http://shwu10.cs.nthu.edu.tw/2016-software-studio/release-slides/raw/master/03_Lab_VCS_Debugger-copy-2.pdf
